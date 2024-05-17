@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Parashar365D/CloudBook/static/css/main.cca043ef.css",
+    "main.js": "/Parashar365D/CloudBook/static/js/main.ab60f38a.js",
+    "index.html": "/Parashar365D/CloudBook/index.html",
+    "main.cca043ef.css.map": "/Parashar365D/CloudBook/static/css/main.cca043ef.css.map",
+    "main.ab60f38a.js.map": "/Parashar365D/CloudBook/static/js/main.ab60f38a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca043ef.css",
+    "static/js/main.ab60f38a.js"
+  ]
+}
